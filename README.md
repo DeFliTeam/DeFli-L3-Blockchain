@@ -11,7 +11,7 @@ L2 RPC: https://rpc-defli-chain-01-jerg8a427n.t.conduit.xyz
 
 L2 WS: wss://rpc-defli-chain-01-jerg8a427n.t.conduit.xyz 
 
-L2 Block EXplorer: https://explorerl2new-defli-chain-01-jerg8a427n.t.conduit.xyz 
+L2 Block Explorer: https://explorerl2new-defli-chain-01-jerg8a427n.t.conduit.xyz 
 
 
 
