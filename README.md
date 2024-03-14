@@ -11,7 +11,10 @@ L2 RPC: https://rpc-defli-chain-01-jerg8a427n.t.conduit.xyz
 
 L2 WS: wss://rpc-defli-chain-01-jerg8a427n.t.conduit.xyz 
 
-L2 Block Explorer: https://explorerl2new-defli-chain-01-jerg8a427n.t.conduit.xyz 
+L2 Block Explorer: https://explorerl2new-defli-chain-01-jerg8a427n.t.conduit.xyz  
+
+To add to your Metamask https://app.conduit.xyz/published/view/defli-chain-01-jerg8a427n 
+
 
 
 
